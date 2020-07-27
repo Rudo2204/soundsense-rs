@@ -1,3 +1,9 @@
+## This is a fork!
+This is a fork of the original [prixt/soundsense-rs](https://github.com/prixt/soundsense-rs) repo.
+Rewritten the GUI using [hecri/iced](https://github.com/hecrj/iced) as a personal practice.
+I created a new repo and not forking anything because `prixt` included a full soundtrack pack in the repo (320+ MB), making it too hard to clone.
+The first state of this repo is the same as commit `055acfb47` as the original's.
+
 # SOUNDSENSE-RS</br><img src="./icons/icon.ico" width="128px" height="128px"></img></br>Soundsense, written in Rust.</br>![Build](https://github.com/prixt/soundsense-rs/workflows/Build/badge.svg)
 My attempt at recreating [SoundSense](http://df.zweistein.cz/soundsense/), a sound-engine utility for [Dwarf Fortress](http://www.bay12games.com/dwarves/), using Rust.
 
